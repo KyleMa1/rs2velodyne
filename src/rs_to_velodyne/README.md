@@ -13,6 +13,10 @@ RS-16 and RS-Ruby LiDAR point cloud, More LiDAR model support is coming soon.
 
 ## Usage
 
+Build
+ws:  colcon build 
+
+
 ### 1. XYZIRT input
 For **XYZIRT** format point clouds from `/rslidar_points` (Notice that, you need the latest 
 [rslidar_sdk](https://github.com/RoboSense-LiDAR/rslidar_sdk) driver to get this type of point cloud):
